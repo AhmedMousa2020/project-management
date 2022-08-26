@@ -34,11 +34,12 @@ Project Management Web App
 - admin-login: email => `admin1@example.com` , password => `password`
 
 ## Additional Notes
+- you should craete folder name `files` in storge/app/public  dirctoey
 - thare are a PHP Decomntor Created in app folder  for http files
 - if you want create a new one i provided to you a PHPDocomentor Script 
   you can use this command  php phpDocumentor.phar -d <`Folder you docement`>. -t <`dirctory save`> 
    to make it  
 
-- you should craete folder name `files` in storge/app/public  dirctoey   
+   
 
 
